@@ -1,2 +1,2 @@
 # Math-Finance
-Mathematical Finance Midterm Project 
+Mathematical Finance Midterm & Final Project 
